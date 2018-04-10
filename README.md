@@ -1,4 +1,6 @@
-# Terraform + Digital Ocean Hello World
+# Terraform + Digital Ocean CockrachDB Global 3-Node Cluster
+
+This repo is an example of how to create a global insecure 3-node cluster for experimentation.
 
 1. Download terraform at https://www.terraform.io/downloads.html and put in a global path
 
