@@ -2,7 +2,7 @@
 
 This repo is an example of how to create a global insecure 3-node cluster for experimentation.
 
-1. Download terraform at https://www.terraform.io/downloads.html and put in a global path
+1. Download terraform at https://www.terraform.io/downloads.html and put in a $PATH
 
 2. Copy `project.template.tfvars` to `project.tfvars` and populate with real data. You'll have to go to Digital Ocean and upload an SSH key and generate an API token.
 
